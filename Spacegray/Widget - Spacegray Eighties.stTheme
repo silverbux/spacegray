@@ -7,22 +7,22 @@
 	<key>comment</key>
 	<string>Spacegray</string>
 	<key>name</key>
-	<string>Spacegray</string>
+	<string>Spacegray Eighties</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1C1F26</string>
+				<string>#1E1E1E</string>
 				<key>caret</key>
-				<string>#c0c5ce</string>
+				<string>#d3d0c8</string>
 				<key>foreground</key>
-				<string>#c0c5ce</string>
+				<string>#d3d0c8</string>
 				<key>invisibles</key>
-				<string>#65737e</string>
+				<string>#747369</string>
 				<key>selection</key>
-				<string>#4f5b66</string>
+				<string>#515151</string>
 			</dict>
 		</dict>
 	</array>
