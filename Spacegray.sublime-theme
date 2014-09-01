@@ -447,12 +447,12 @@
         "layer0.opacity": 1,
         "layer0.tint": [35, 40, 48], // -01
         "layer0.inner_margin": [1,5,2,1],
-        "content_margin": [0,4,0,0]
+        "content_margin": [0,5,0,0]
     },
     // Sidebar tree
     {
         "class": "sidebar_tree",
-        "row_padding": [8,4],
+        "row_padding": [8,4.5],
         "indent": 12,
         "indent_offset": 14,
         "indent_top_level": false,
@@ -1067,8 +1067,8 @@
 
     {
         "class": "icon_file_type",
-        "content_margin": [0,0],
-        "layer0.opacity": 0.0
+        // "content_margin": [0],
+        "layer0.opacity": 1
     },
     {
         "class": "icon_folder",
