@@ -24,7 +24,7 @@ A variation based on Base16 Eighties Dark color scheme.
 
 ![image](Screenshots/spacegray-eighties.png)
 
-*The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*
+*The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe-fonts/source-code-pro).*
 
 ***
 
@@ -158,6 +158,12 @@ Tabs width:
 ```
 ```json
   "spacegray_sidebar_tree_xlarge": true
+```
+
+#### Hide navigation icons in Sublime Text 3
+
+```json
+    "enable_tab_scrolling": false,
 ```
 
 ***
